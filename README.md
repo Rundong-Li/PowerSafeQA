@@ -1,6 +1,8 @@
 ### 介绍
 
-本项目基于 [InternLM 开源大模型](https://github.com/InternLM/InternLM)，在领域专有数据上进行指令微调，实现电力安全规程问答助手。欢迎大家也来参加书生大模型实战营项目！（http://github.com/internLM/tutorial）
+本项目基于 [InternLM 开源大模型](https://github.com/InternLM/InternLM)，在领域专有数据上进行指令微调，实现电力安全规程问答助手。
+
+欢迎大家也来参加书生大模型实战营项目！http://github.com/internLM/tutorial
 
 ### 功能
 
