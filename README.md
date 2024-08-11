@@ -1,3 +1,5 @@
+## 基于InternLM的电力安全规程问答助手
+
 ### 介绍
 
 本项目基于 [InternLM 开源大模型](https://github.com/InternLM/InternLM)，在领域专有数据上进行指令微调，实现电力安全规程问答助手。
